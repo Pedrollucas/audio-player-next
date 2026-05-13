@@ -21,4 +21,4 @@ Projeto desenvolvido em Next.js com o objetivo de manipular áudio no navegador.
 Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/Pedrollucas/audio-player-next.git
